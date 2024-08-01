@@ -1,0 +1,19 @@
+body{
+background-color: rgb(92, 92, 136);
+
+}
+
+.box{
+    background-image: url("https://th.bing.com/th/id/OIP.Gr7hcjTcqf6vnQBkv0kfbgHaFj?rs=1&pid=ImgDetMain");
+    height: 20rem;
+   width: 29rem;
+   margin: 50% auto;
+
+}
+
+button{
+    background: rgba(238, 3, 3, 0.488);
+    border: none;
+    width: 12rem;
+    cursor: pointer;
+}

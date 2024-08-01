@@ -1,0 +1,11 @@
+.imgBox{
+display: flex;
+gap: 50px;
+}
+ 
+
+.blueBox{
+width: 25rem;
+height: 30rem;
+background:#5accfacc;
+}
